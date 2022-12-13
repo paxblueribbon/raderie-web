@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target" : { "namespace": "android_app", "package_name": "org.clarkecollective.raderie",
+                 "sha256_cert_fingerprints": ["63:75:16:D3:C9:73:83:D0:9E:A0:8B:BB:28:46:B4:D4:AC:83:9C:1E:7A:4C:C5:64:58:7E:C1:8C:17:32:D2:ED"] }
+  }, {
+         "relation": ["delegate_permission/common.handle_all_urls"],
+         "target" : { "namespace": "android_app", "package_name": "org.clarkecollective.raderie",
+                      "sha256_cert_fingerprints": ["0C:60:25:73:2F:B6:98:9F:88:95:3C:C2:76:D6:BC:E0:01:72:22:96:56:CF:82:5D:97:6D:17:01:65:0A:4E:62"] }
+       }]
